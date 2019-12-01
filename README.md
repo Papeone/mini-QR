@@ -24,7 +24,7 @@ cml dev
 
 
 ## 目录与文件结构
-
+```
 ├── chameleon.config.js                 // 项目的配置文件
 ├── dist                                // 打包产出目录
   ├── alipay                            // 支付宝小程序代码
@@ -42,7 +42,7 @@ cml dev
     ├── pages                           // 页面文件夹
     ├── router.config.json              // 路由配置
     └── store                           // 全局状态管理
-    
+```    
 ## 创建新页面
 
 项目根目录下  执行 cml init page, 输入页面名称
