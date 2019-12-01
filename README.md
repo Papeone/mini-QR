@@ -60,6 +60,5 @@ chameleon.config.js为项目的配置文件，以后定制化构建会  使用�
 
 ## 编辑器推荐及插件安装
 
-推荐使用vscode
-Vscode 插件搜索 cml 安装。
+推荐使用vscode 插件搜索 cml 安装。
 
